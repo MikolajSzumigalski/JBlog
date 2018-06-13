@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
+title:          Szumikomemoracja
 bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "Luźny blog autorstwa Mikołaja Szumigalskiego"
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+url:            http://mikolajszumigalski.github.io/Szumikomemoracja
 
 
 # Jekyll
