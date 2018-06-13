@@ -2,9 +2,7 @@
 layout: post
 title: "Dlaczego warto prowadzić warsztaty (zajęcia)"
 date: 2018-06-13
-tag: 
--pogadanka 
--frontend
+tags: [pogadanka, frontend]
 ---
 # Po co jest ten post?
 Jest to mój pierwszy post na tym blogu, chcę przede wszystkim poćwiczyć Markdown'a, ale przy okazji napisać coś ciekawego i ten temat to moja pierwsza myśl, może komuś się kiedyś przyda, albo ja sam kiedyś sobie przypomnę jak dużo fajnych wspomnień mam z tych zajęć.
