@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dlaczego warto prowadzić warsztaty (zajęcia)"
 date: 2018-06-13
 tag: 
