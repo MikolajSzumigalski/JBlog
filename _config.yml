@@ -4,7 +4,7 @@ bio:            'Just a simple Jekyll theme'
 description:    "Luźny blog autorstwa Mikołaja Szumigalskiego"
 picture:        'assets/img/profile.png'
 locale:         en_US
-/hyde:            http://mikolajszumigalski.github.io/Szumikomemoracja
+url:            https://mikolajszumigalski.github.io/Szumikomemoracja/
 
 
 # Jekyll
